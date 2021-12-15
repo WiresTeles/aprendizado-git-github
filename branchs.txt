@@ -1,0 +1,2 @@
+Quando tem varias pessoas no mesmo projeto. Podemos criar as branchs como se fosse um projeto paralelo, depois fundi esse projeto.
+
